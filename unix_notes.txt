@@ -1,0 +1,194 @@
+    1  pwd
+    2  cd
+    3  cd pwd
+    4  pwd
+    5  cd /c
+    6  1s
+    7  ls
+    8  ls -t
+    9  ls
+   10  ls -l
+   11  ls -lt
+   12  r
+   13  ls -r
+   14  -r
+   15  ls -rt
+   16  man
+   17  man ls
+   18  help
+   19  help ls
+   20  info ls
+   21  ls --file-type
+   22  ls --format
+   23  ls -n
+   24  ls -o
+   25  ls -Q
+   26  ls --time
+   27  ls -u
+   28  ls
+   29  ls -X
+   30  ls --format=vertical
+   31  ls --format=-column
+   32  ls --format=single-column
+   33  ls --format=horizontal
+   34  ls
+   35  ls -g
+   36  ls
+   37  ls -k
+   38  ls -s
+   39  ls -S
+   40  ls -v
+   41  ls -vl
+   42  subl
+   43  ls -sS
+   44  ls -Ss
+   45  ls -h
+   46  ls -Ssh
+   47  ls -L
+   48  ls -m
+   49  ls -N
+   50  ls -n
+   51  ls -w
+   52  ls --width=COLS
+   53  ls --width=100
+   54  ls --width=50
+   55  ls -1
+   56  ls --block-size=MB
+   57  ls --block-size=100
+   58  cd /c/Users/pmartinez
+   59  ls
+   60  ls -l
+   61  cd ls
+   62  ls
+   63  ls -l
+   64  cd Contacts
+   65  ls
+   66  cd /c/Users/pmartinez
+   67  cd Searches
+   68  ls
+   69  cd /c/Users/pmartinez
+   70  cd Videos
+   71  pwd
+   72  ls
+   73  ls -l
+   74  cd Food_Nework.mp4
+   75  cd Stephen
+   76  ls -l
+   77  cd ..
+   78  pwd
+   79  cd ../..
+   80  cd /..
+   81  ls
+   82  ls -l
+   83  cd git-cheetah
+   84  ls
+   85  ls -l
+   86  cd ..
+   87  ls -l
+   88  cd bin
+   89  ls -l
+   90  ls -l
+   91  cd ..
+   92  ls -l
+   93  cd lib
+   94  ls -l
+   95  cd dde1.3
+   96  ls -l
+   97  cd ..
+   98  ls -l
+   99  cd tcl8.5
+  100  ls -l
+  101  cd encoding
+  102  ls -l
+  103  cd ..
+  104  cd ..
+  105  ls -l
+  106  cd ..
+  107  ls -l
+  108  cd c
+  109  ls -l
+  110  cd Users
+  111  ls -l
+  112  cd pmartinez
+  113  ls -l
+  114  cd Documents
+  115  ls -l
+  116  cd eclipes
+  117  cd eclipse
+  118  ls -l
+  119  cd plugins
+  120  ls -l
+  121  ls -l
+  122  cd ..
+  123  ls -l
+  124  cd confirguration
+  125  cd configuration
+  126  ls -l
+  127  cd 
+  128  ls -l
+  129  cd Favorites
+  130  ls ~
+  131  ls -l
+  132  ls/
+  133  ls /
+  134  ls -p
+  135  ls -p ls/
+  136  ls -p ls /
+  137  ls / ls -p
+  138  ls.
+  139  ls .
+  140  ls . . .
+  141  ls . /..
+  142  cd
+  143  ls
+  144  history
+  145  history 10
+  146  history -t
+  147  history 10 -t
+  148  history | less
+  149  cd
+  150  pwd
+  151  history > moving_around.txt
+  152  ls
+  153  ls -t
+  154  moving_around.txt | less
+  155  pwd
+  156  history > moving_around.txt
+  157  history
+  158  history > moving_around.txt
+  159  less moving_around.txt
+  160  subl moving_around.txt
+  161  curl -fsSL http://git.io/cWIXEw | sh
+  162  subl
+  163  subl
+  164  ls /c
+  165  ls /c/Program\ Files\ \(x86\)/
+  166  ls /c/Program\ Files
+  167  ln
+  168  /c/Program\ Files\ \(x86\)/
+  169  cd /c/Program\ Files\ \(x86\)/
+  170  mkdir Sublime\ Text\ 2 
+  171  ls
+  172  cd Sublime\ Text\ 2/
+  173  ln -s
+  174  ln -s ../../Program\ Files
+  175  ln -s ../../Program\ Files/Sublime\ Text\ 2/sublime_text.exe  ./
+  176  TARGET="/c/Program Files/Git/bin/subl"
+  177  echo '#!/bin/sh' > $TARGET
+  178  echo '"C:\Program Files\Sublime Text 2\sublime_text.exe" $1 &' >> $TARGET
+  179  echo $TARGET
+  180  ls
+  181  ls /c/Program\ Files
+  182  TARGET="c/Program Files (x86)/Git/bing/subl"
+  183  echo '#!/bin/sh' > $TARGET
+  184  TARGET="c/Program\ Files\ (x86)/Git/bing/subl"
+  185  echo '#!/bin/sh' > $TARGET
+  186  TARGET="/c/Program\ Files\ (x86)/Git/bing/subl"
+  187  echo '#!/bin/sh' > $TARGET
+  188  vi
+  189  ls /usr/bin/
+  190  vi /usr/bin/subl
+  191  subl
+  192  cd
+  193  subl moving_around.txt
+  194  history > moving_around.txt
