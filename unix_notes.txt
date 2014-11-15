@@ -191,4 +191,5 @@
   191  subl
   192  cd
   193  subl moving_around.txt
-  194  history > moving_around.txt
+  194  history > moving_around.txt 
+  **hidden files start with a "." and can be accessed with a "a" flag**
