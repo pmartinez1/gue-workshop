@@ -1,0 +1,2 @@
+Still need to understand what branch is. Is it a frozen point in time? Or just something that helps your process? I need to dig into this a little more.
+I think I got it. The branch helps you keep your work, that functions, by moving forward with a test.

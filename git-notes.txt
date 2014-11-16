@@ -1,0 +1,1 @@
+Remote repositories allow one to have their data hosted elsewhere for collaborative purposes. Local is something that is hosted privately. We can share our stuff and see others content via a remote repository. 
